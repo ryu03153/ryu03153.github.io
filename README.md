@@ -15,7 +15,7 @@ It  goes  without  saying  that  traditional  text-based memorizing   technique 
 
 ### Memo  Review
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69071182/100877210-cad75280-34eb-11eb-894f-d9a0cb4f1a1d.PNG", width="200">
+<img src="./latex/memoreview1.png", width="200">
 <img src="https://user-images.githubusercontent.com/69071182/100877246-d62a7e00-34eb-11eb-9f87-363c783dc5cf.PNG", width="200">
 </p>
 <br>  
