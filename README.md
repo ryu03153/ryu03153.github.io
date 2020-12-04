@@ -243,7 +243,7 @@ In the update_forgettingStage, it updates the forgettingstage according to the u
 
 #### Choosing Wordset
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69071182/100887581-771f3600-34f8-11eb-9058-6b16f02fb4fb.png", width="800">
+<img src="https://user-images.githubusercontent.com/69071182/101135947-e8bdc800-364f-11eb-819e-627b5e5a11e3.png", width="1000">
 </p>
 <p align="center">
   <em>Use case - Choosing wordset, chapter</em>
@@ -260,7 +260,7 @@ In the update_forgettingStage, it updates the forgettingstage according to the u
 
 #### Learning Stage
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69071182/100887586-78e8f980-34f8-11eb-8607-57ac308a417a.png", width="800">
+<img src="https://user-images.githubusercontent.com/69071182/101135949-ea878b80-364f-11eb-99df-0b2acfdb5f8f.png", width="1000">
 </p>
 <p align="center">
   <em>Use case - Learning stage</em>
@@ -276,7 +276,7 @@ In the update_forgettingStage, it updates the forgettingstage according to the u
 
 #### Test Stage
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69071182/100887591-7a1a2680-34f8-11eb-8134-f151aa6e4a7e.png", width="950">
+<img src="https://user-images.githubusercontent.com/69071182/101135950-ea878b80-364f-11eb-81df-bd1a546de0db.png", width="1100">
 </p>
 <p align="center">
   <em>Use case - Test stage</em>
@@ -292,7 +292,7 @@ In the update_forgettingStage, it updates the forgettingstage according to the u
 
 #### Interrupt/terminate function
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69071182/100887595-7ab2bd00-34f8-11eb-9d4c-1ee60a5005c0.png", width="800">
+<img src="https://user-images.githubusercontent.com/69071182/101135954-ece9e580-364f-11eb-806f-57ac55cffa9b.png", width="500">
 </p>
 <p align="center">
   <em>Use case - Interrupt</em>
