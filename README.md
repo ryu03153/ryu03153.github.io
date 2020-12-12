@@ -276,7 +276,7 @@ In the update_forgettingStage, it updates the forgettingstage according to the u
 
 #### Test Stage
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69071182/101135950-ea878b80-364f-11eb-81df-bd1a546de0db.png", width="1100">
+<img src="https://user-images.githubusercontent.com/69071182/101985382-0aabf000-3ccb-11eb-8bbe-ca66c21c620f.png", width="1100">
 </p>
 <p align="center">
   <em>Use case - Test stage</em>
