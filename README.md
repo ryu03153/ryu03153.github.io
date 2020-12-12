@@ -222,11 +222,11 @@ In the update_forgettingStage, it updates the forgettingstage according to the u
 </p>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69071182/100886406-23601d00-34f7-11eb-8cd5-7e844677778f.png", width="170">
-<img src="https://user-images.githubusercontent.com/69071182/100886419-26f3a400-34f7-11eb-821d-830e1f573374.png", width="170">
-<img src="https://user-images.githubusercontent.com/69071182/100886424-2955fe00-34f7-11eb-8aea-5ca6ff750a6a.png", width="170">
-<img src="https://user-images.githubusercontent.com/69071182/100886429-2b1fc180-34f7-11eb-8be9-d3d5012fdfb1.png", width="170">
-<img src="https://user-images.githubusercontent.com/69071182/100886431-2c50ee80-34f7-11eb-85db-43d9a40605f4.png", width="170">
+<img src="https://user-images.githubusercontent.com/69071182/100886406-23601d00-34f7-11eb-8cd5-7e844677778f.png", width="250">
+<img src="https://user-images.githubusercontent.com/69071182/100886419-26f3a400-34f7-11eb-821d-830e1f573374.png", width="250">
+<img src="https://user-images.githubusercontent.com/69071182/100886424-2955fe00-34f7-11eb-8aea-5ca6ff750a6a.png", width="250">
+<img src="https://user-images.githubusercontent.com/69071182/100886429-2b1fc180-34f7-11eb-8be9-d3d5012fdfb1.png", width="250">
+<img src="https://user-images.githubusercontent.com/69071182/101984378-776fbc00-3cc4-11eb-80fe-5f7323cc2052.png", width="250">
 </p>
 <p align="center">
   <em>Mobile application</em>
